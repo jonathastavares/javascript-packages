@@ -1,0 +1,13 @@
+body {
+  background-color: bisque;
+}
+
+.hello {
+  color: red;
+}
+
+.text {
+  font-size: 48px;
+  font-weight: 800;
+  color: blue;
+}
